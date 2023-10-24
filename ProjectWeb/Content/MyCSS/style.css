@@ -1,0 +1,153 @@
+﻿body {
+    margin: 0;
+}
+
+form {
+    width: 100%;
+    height: 250px;
+    background-color: lightgray;
+    /*padding:5px*/
+}
+
+div {
+    vertical-align: middle;
+    text-align: center;
+    padding: 5px;
+    font-family: Arial;
+}
+
+h1 {
+    font-size: x-large;
+    text-align:center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*SECTION*/
+section {
+    width: 100%;
+    height: 100%;
+}
+
+.img-content {
+    width: 100%;
+}
+
+.name-list {
+    text-align: center;
+    font-size: xx-large;
+}
+
+.list-pro {
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    display: inline-flex;
+    align-items: center;
+}
+
+.box-pro {
+    background-color: whitesmoke;
+    border-radius: 25px;
+    margin: 10px;
+    justify-content: center;
+}
+
+    .box-pro:hover {
+        box-shadow: 10px 10px 5px gray;
+    }
+
+.box-des {
+    width: 265px;
+    background-color: darkgrey;
+    text-align: center;
+    border-start-start-radius: 20px;
+    border-start-end-radius: 15px;
+    border-end-start-radius: 20px;
+    border-end-end-radius: 15px;
+    padding: 20px;
+}
+
+.fm-size-img {
+    width: 150px;
+    height: 150px;
+}
+
+.page{
+    margin:0px;
+    list-style:none;
+}
+
+.page-1{
+    text-decoration:none;
+    border-radius:5px;
+    display:inline-block;
+    background-color:pink;
+    width:30px;
+    height:30px;
+    text-align:center;
+    margin:0px;
+    padding:6px;
+}
+
+.ss-sp {
+    width:100%;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center;
+    align-items: center;
+    margin:5px;
+    gap:5px;
+}
+    .des-ss-sp:hover {
+        box-shadow: 10px 10px 5px gray;
+    }
+.des-ss-sp {
+    background-color: whitesmoke;
+    border-radius: 25px;
+    margin: 10px;
+    justify-content: center;
+    width:500px;
+    height:180px;
+    display:flex;
+}
+
+.fm-size-img {
+    width: 150px;
+    height: 150px;
+}
+.des-content-ss{
+    align-content:center;
+    font-size:x-large;  
+    text-align:start;
+}
+.link {
+    font-size: 15px;
+    color:blue;
+    text-decoration:none;
+}
+.notepad {  
+   
+    width:80%;
+    margin:0 auto;
+    text-align:left;
+    border-radius:8px;
+    background-color: whitesmoke;
+}
+.font-char{
+    color:blue;
+}
+
+
+
